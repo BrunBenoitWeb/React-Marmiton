@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "prop-types": "^15.7.2",
+    "sqlite3": "^5.0.2"
+  }
+}
